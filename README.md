@@ -8,8 +8,7 @@ Nessuno commento
 * Aggiunta funzione per pulire la sessione ad avvio del sistema.
 * Aggiunta funzione per creare image serverapp ad avvio del sistema.
 * Aggiunta randomicità nella classe RandomWorkloadGenerator per avere carico dinamico reale
-    * DW random
-    * D random
+
 TODO :
 0) Tempo di campionamento imperfetto.
 1) pulizia finale della session.
