@@ -9,7 +9,3 @@ Nessuno commento
 * Aggiunta funzione per creare image serverapp ad avvio del sistema.
 * Aggiunta randomicità nella classe RandomWorkloadGenerator per avere carico dinamico reale
 
-#### TODO 
-0) Tempo di campionamento imperfetto.
-1) pulizia finale della session.
-2) pulizia image a fine simulazione.
