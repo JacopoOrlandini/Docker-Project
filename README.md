@@ -1,6 +1,9 @@
 # DockerAWM
 > Progetto Sistemi Orientati ad Internet
 ### update date 28/03/19
+* Eseguite correzioni grammaticali e sintattiche alla relazione.
+* corretti parametri della simulazione e relativo grafico.
+* corretto tabella dei risulati.
 
 ## DockerAWM v1.0
 Nessuno commento
