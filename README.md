@@ -1,6 +1,16 @@
-# Docker Project
-> Progetto Ingegneria magistrale Docker CloudAWM
+# DockerAWM
+> Progetto Sistemi Orientati ad Internet
+### update date 28/03/19
 
-* Aggiunta funzione per pulire la sessione
-* Aggiunta funzione per creare image serverapp
-* Aggiunta randomicità nella classe RandomWorkloadGenerator per avere carico dinamico reale (random sia numero richieste sia tempo di attesa sia numero di volte in cui viene eseguito).
+##DockerAWM v1.0
+Nessuno commento
+##DockerAWM v1.1
+* Aggiunta funzione per pulire la sessione ad avvio del sistema.
+* Aggiunta funzione per creare image serverapp ad avvio del sistema.
+* Aggiunta randomicità nella classe RandomWorkloadGenerator per avere carico dinamico reale
+    * DW random
+    * D random
+TODO :
+0) Tempo di campionamento imperfetto.
+1) pulizia finale della session.
+2) pulizia image a fine simulazione.
